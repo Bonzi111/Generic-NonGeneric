@@ -1,0 +1,22 @@
+C:\Users\Aviici\Documents\Visual Studio 2017\Projects\Generic_NonGenericProject\Generic_NonGenericProject\bin\Debug\netcoreapp2.1\Generic_NonGenericProject.deps.json
+C:\Users\Aviici\Documents\Visual Studio 2017\Projects\Generic_NonGenericProject\Generic_NonGenericProject\bin\Debug\netcoreapp2.1\Generic_NonGenericProject.runtimeconfig.json
+C:\Users\Aviici\Documents\Visual Studio 2017\Projects\Generic_NonGenericProject\Generic_NonGenericProject\bin\Debug\netcoreapp2.1\Generic_NonGenericProject.runtimeconfig.dev.json
+C:\Users\Aviici\Documents\Visual Studio 2017\Projects\Generic_NonGenericProject\Generic_NonGenericProject\bin\Debug\netcoreapp2.1\Generic_NonGenericProject.dll
+C:\Users\Aviici\Documents\Visual Studio 2017\Projects\Generic_NonGenericProject\Generic_NonGenericProject\bin\Debug\netcoreapp2.1\Generic_NonGenericProject.pdb
+C:\Users\Aviici\Documents\Visual Studio 2017\Projects\Generic_NonGenericProject\Generic_NonGenericProject\obj\Debug\netcoreapp2.1\Generic_NonGenericProject.csprojAssemblyReference.cache
+C:\Users\Aviici\Documents\Visual Studio 2017\Projects\Generic_NonGenericProject\Generic_NonGenericProject\obj\Debug\netcoreapp2.1\Generic_NonGenericProject.csproj.CoreCompileInputs.cache
+C:\Users\Aviici\Documents\Visual Studio 2017\Projects\Generic_NonGenericProject\Generic_NonGenericProject\obj\Debug\netcoreapp2.1\Generic_NonGenericProject.AssemblyInfoInputs.cache
+C:\Users\Aviici\Documents\Visual Studio 2017\Projects\Generic_NonGenericProject\Generic_NonGenericProject\obj\Debug\netcoreapp2.1\Generic_NonGenericProject.AssemblyInfo.cs
+C:\Users\Aviici\Documents\Visual Studio 2017\Projects\Generic_NonGenericProject\Generic_NonGenericProject\obj\Debug\netcoreapp2.1\Generic_NonGenericProject.dll
+C:\Users\Aviici\Documents\Visual Studio 2017\Projects\Generic_NonGenericProject\Generic_NonGenericProject\obj\Debug\netcoreapp2.1\Generic_NonGenericProject.pdb
+D:\utilities\Generic_NonGenericProject\Generic_NonGenericProject\bin\Debug\netcoreapp2.1\Generic_NonGenericProject.deps.json
+D:\utilities\Generic_NonGenericProject\Generic_NonGenericProject\bin\Debug\netcoreapp2.1\Generic_NonGenericProject.runtimeconfig.json
+D:\utilities\Generic_NonGenericProject\Generic_NonGenericProject\bin\Debug\netcoreapp2.1\Generic_NonGenericProject.runtimeconfig.dev.json
+D:\utilities\Generic_NonGenericProject\Generic_NonGenericProject\bin\Debug\netcoreapp2.1\Generic_NonGenericProject.dll
+D:\utilities\Generic_NonGenericProject\Generic_NonGenericProject\bin\Debug\netcoreapp2.1\Generic_NonGenericProject.pdb
+D:\utilities\Generic_NonGenericProject\Generic_NonGenericProject\obj\Debug\netcoreapp2.1\Generic_NonGenericProject.csprojAssemblyReference.cache
+D:\utilities\Generic_NonGenericProject\Generic_NonGenericProject\obj\Debug\netcoreapp2.1\Generic_NonGenericProject.csproj.CoreCompileInputs.cache
+D:\utilities\Generic_NonGenericProject\Generic_NonGenericProject\obj\Debug\netcoreapp2.1\Generic_NonGenericProject.AssemblyInfoInputs.cache
+D:\utilities\Generic_NonGenericProject\Generic_NonGenericProject\obj\Debug\netcoreapp2.1\Generic_NonGenericProject.AssemblyInfo.cs
+D:\utilities\Generic_NonGenericProject\Generic_NonGenericProject\obj\Debug\netcoreapp2.1\Generic_NonGenericProject.dll
+D:\utilities\Generic_NonGenericProject\Generic_NonGenericProject\obj\Debug\netcoreapp2.1\Generic_NonGenericProject.pdb
